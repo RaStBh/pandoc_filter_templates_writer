@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE article>
+<article
+  xml:lang="en_GB"
+  xmlns="http://docbook.org/ns/docbook" version="5.0"
+  xmlns:xlink="http://www.w3.org/1999/xlink" >
+  <info>
+    <title>___The_Title___</title>
+    <subtitle>___The_Subtitle___</subtitle>
+    <authorgroup>
+      <author>
+        <personname>
+          <firstname></firstname>
+          <surname>___Author_1___</surname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <firstname></firstname>
+          <surname>___Author_2___</surname>
+        </personname>
+      </author>
+      <author>
+        <personname>
+          <firstname></firstname>
+          <surname>___Author_3___</surname>
+        </personname>
+      </author>
+    </authorgroup>
+    <date>___0000-00-00_00:00:00_+00:00___</date>
+  </info>
+  %___The_Include_before_1___&lt;br&gt;
+  %___The_Include_before_2___&lt;br&gt;
+  %___The_Include_before_3___&lt;br&gt;
+  <section xml:id="the-chapter-1_0_0">
+    <title>the chapter 1_0_0</title>
+    <para>
+      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+      nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
+      erat, sed diam voluptua. At vero eos et accusam et justo duo
+      dolores et ea rebum. Stet clita kasd gubergren, no sea takimata
+      sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit
+      amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
+      invidunt ut labore et dolore magna aliquyam erat, sed diam
+      voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+      Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum
+      dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing
+      elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore
+      magna aliquyam erat, sed diam voluptua. At vero eos et accusam et
+      justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
+      takimata sanctus est Lorem ipsum dolor sit amet.
+    </para>
+    <section xml:id="the-chapter-1_1_0">
+      <title>the chapter 1_1_0</title>
+      <para>
+        Duis autem vel eum iriure dolor in hendrerit in vulputate velit
+        esse molestie consequat, vel illum dolore eu feugiat nulla
+        facilisis at vero eros et accumsan et iusto odio dignissim qui
+        blandit praesent luptatum zzril delenit augue duis dolore te
+        feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
+        laoreet dolore magna aliquam erat volutpat.
+      </para>
+      <section xml:id="the-chapter-1_1_1">
+        <title>the chapter 1_1_1</title>
+        <para>
+          Ut wisi enim ad minim veniam, quis nostrud exerci tation
+          ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo
+          consequat. Duis autem vel eum iriure dolor in hendrerit in
+          vulputate velit esse molestie consequat, vel illum dolore eu
+          feugiat nulla facilisis at vero eros et accumsan et iusto odio
+          dignissim qui blandit praesent luptatum zzril delenit augue
+          duis dolore te feugait nulla facilisi.
+        </para>
+      </section>
+      <section xml:id="the-chapter-1_1_2">
+        <title>the chapter 1_1_2</title>
+        <para>
+          Nam liber tempor cum soluta nobis eleifend option congue nihil
+          imperdiet doming id quod mazim placerat facer possim assum.
+          Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
+          diam nonummy nibh euismod tincidunt ut laoreet dolore magna
+          aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
+          nostrud exerci tation ullamcorper suscipit lobortis nisl ut
+          aliquip ex ea commodo consequat.
+        </para>
+      </section>
+      <section xml:id="the-chapter-1_1_3">
+        <title>the chapter 1_1_3</title>
+        <para>
+          Duis autem vel eum iriure dolor in hendrerit in vulputate
+          velit esse molestie consequat, vel illum dolore eu feugiat
+          nulla facilisis.
+        </para>
+      </section>
+    </section>
+    <section xml:id="the-chapter-1_2_0">
+      <title>the chapter 1_2_0</title>
+      <para>
+        At vero eos et accusam et justo duo dolores et ea rebum. Stet
+        clita kasd gubergren, no sea takimata sanctus est Lorem ipsum
+        dolor sit amet. Lorem ipsum dolor sit amet, consetetur
+        sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
+        labore et dolore magna aliquyam erat, sed diam voluptua. At vero
+        eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
+        gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
+        amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+        At accusam aliquyam diam diam dolore dolores duo eirmod eos
+        erat, et nonumy sed tempor et et invidunt justo labore Stet
+        clita ea et gubergren, kasd magna no rebum. sanctus sea sed
+        takimata ut vero voluptua. est Lorem ipsum dolor sit amet. Lorem
+        ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+        nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
+        erat.
+      </para>
+      <section xml:id="the-chapter-1_2_1">
+        <title>the chapter 1_2_1</title>
+        <para>
+          Consetetur sadipscing elitr, sed diam nonumy eirmod tempor
+          invidunt ut labore et dolore magna aliquyam erat, sed diam
+          voluptua. At vero eos et accusam et justo duo dolores et ea
+          rebum. Stet clita kasd gubergren, no sea takimata sanctus est
+          Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
+          consetetur sadipscing elitr, sed diam nonumy eirmod tempor
+          invidunt ut labore et dolore magna aliquyam erat, sed diam
+          voluptua. At vero eos et accusam et justo duo dolores et ea
+          rebum. Stet clita kasd gubergren, no sea takimata sanctus est
+          Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
+          consetetur sadipscing elitr, sed diam nonumy eirmod tempor
+          invidunt ut labore et dolore magna aliquyam erat, sed diam
+          voluptua. At vero eos et accusam et justo duo dolores et ea
+          rebum. Stet clita kasd gubergren, no sea takimata sanctus est
+          Lorem ipsum dolor sit amet.
+        </para>
+      </section>
+      <section xml:id="the-chapter-1_2_2">
+        <title>the chapter 1_2_2</title>
+        <para>
+          Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
+          diam nonumy eirmod tempor invidunt ut labore et dolore magna
+          aliquyam erat, sed diam voluptua. At vero eos et accusam et
+          justo duo dolores et ea rebum. Stet clita kasd gubergren, no
+          sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem
+          ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+          nonumy eirmod tempor invidunt ut labore et dolore magna
+          aliquyam erat, sed diam voluptua. At vero eos et accusam et
+          justo duo dolores et ea rebum. Stet clita kasd gubergren, no
+          sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem
+          ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+          nonumy eirmod tempor invidunt ut labore et dolore magna
+          aliquyam erat, sed diam voluptua. At vero eos et accusam et
+          justo duo dolores et ea rebum. Stet clita kasd gubergren, no
+          sea takimata sanctus est Lorem ipsum dolor sit amet.
+        </para>
+      </section>
+      <section xml:id="the-chapter-1_2_3">
+        <title>the chapter 1_2_3</title>
+        <para>
+          Duis autem vel eum iriure dolor in hendrerit in vulputate
+          velit esse molestie consequat, vel illum dolore eu feugiat
+          nulla facilisis at vero eros et accumsan et iusto odio
+          dignissim qui blandit praesent luptatum zzril delenit augue
+          duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit
+          amet, consectetuer adipiscing elit, sed diam nonummy nibh
+          euismod tincidunt ut laoreet dolore magna aliquam erat
+          volutpat.
+        </para>
+      </section>
+    </section>
+    <section xml:id="the-chapter-1_3_0">
+      <title>the chapter 1_3_0</title>
+      <para>
+        Ut wisi enim ad minim veniam, quis nostrud exerci tation
+        ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo
+        consequat. Duis autem vel eum iriure dolor in hendrerit in
+        vulputate velit esse molestie consequat, vel illum dolore eu
+        feugiat nulla facilisis at vero eros et accumsan et iusto odio
+        dignissim qui blandit praesent luptatum zzril delenit augue duis
+        dolore te feugait nulla facilisi.
+      </para>
+      <section xml:id="the-chapter-1_3_1">
+        <title>the chapter 1_3_1</title>
+        <para>
+          Nam liber tempor cum soluta nobis eleifend option congue nihil
+          imperdiet doming id quod mazim placerat facer possim assum.
+          Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
+          diam nonummy nibh euismod tincidunt ut laoreet dolore magna
+          aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
+          nostrud exerci tation ullamcorper suscipit lobortis nisl ut
+          aliquip ex ea commodo consequat.
+        </para>
+      </section>
+      <section xml:id="the-chapter-1_3_2">
+        <title>the chapter 1_3_2</title>
+        <para>
+          Duis autem vel eum iriure dolor in hendrerit in vulputate
+          velit esse molestie consequat, vel illum dolore eu feugiat
+          nulla facilisis.
+        </para>
+      </section>
+      <section xml:id="the-chapter-1_3_3">
+        <title>the chapter 1_3_3</title>
+        <para>
+          At vero eos et accusam et justo duo dolores et ea rebum. Stet
+          clita kasd gubergren, no sea takimata sanctus est Lorem ipsum
+          dolor sit amet. Lorem ipsum dolor sit amet, consetetur
+          sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
+          labore et dolore magna aliquyam erat, sed diam voluptua. At
+          vero eos et accusam et justo duo dolores et ea rebum. Stet
+          clita kasd gubergren, no sea takimata sanctus est Lorem ipsum
+          dolor sit amet. Lorem ipsum dolor sit amet, consetetur
+          sadipscing elitr, At accusam aliquyam diam diam dolore dolores
+          duo eirmod eos erat, et nonumy sed tempor et et invidunt justo
+          labore Stet clita ea et gubergren, kasd magna no rebum.
+          sanctus sea sed takimata ut vero voluptua. est Lorem ipsum
+          dolor sit amet. Lorem ipsum dolor sit amet, consetetur
+          sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
+          labore et dolore magna aliquyam erat.
+        </para>
+      </section>
+    </section>
+  </section>
+  <section xml:id="the-chapter-2_0_0">
+    <title>the chapter 2_0_0</title>
+    <para>
+      Consetetur sadipscing elitr, sed diam nonumy eirmod tempor
+      invidunt ut labore et dolore magna aliquyam erat, sed diam
+      voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+      Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum
+      dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing
+      elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore
+      magna aliquyam erat, sed diam voluptua. At vero eos et accusam et
+      justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
+      takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor
+      sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+      voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+      Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum
+      dolor sit amet.
+    </para>
+    <section xml:id="the-chapter-2_1_0">
+      <title>the chapter 2_1_0</title>
+      <para>
+        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
+        diam nonumy eirmod tempor invidunt ut labore et dolore magna
+        aliquyam erat, sed diam voluptua. At vero eos et accusam et
+        justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
+        takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum
+        dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+        eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+        sed diam voluptua. At vero eos et accusam et justo duo dolores
+        et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
+        est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
+        consetetur sadipscing elitr, sed diam nonumy eirmod tempor
+        invidunt ut labore et dolore magna aliquyam erat, sed diam
+        voluptua. At vero eos et accusam et justo duo dolores et ea
+        rebum. Stet clita kasd gubergren, no sea takimata sanctus est
+        Lorem ipsum dolor sit amet.
+      </para>
+      <section xml:id="the-chapter-2_1_1">
+        <title>the chapter 2_1_1</title>
+        <para>
+          Duis autem vel eum iriure dolor in hendrerit in vulputate
+          velit esse molestie consequat, vel illum dolore eu feugiat
+          nulla facilisis at vero eros et accumsan et iusto odio
+          dignissim qui blandit praesent luptatum zzril delenit augue
+          duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit
+          amet, consectetuer adipiscing elit, sed diam nonummy nibh
+          euismod tincidunt ut laoreet dolore magna aliquam erat
+          volutpat.
+        </para>
+      </section>
+      <section xml:id="the-chapter-2_1_2">
+        <title>the chapter 2_1_2</title>
+        <para>
+          Ut wisi enim ad minim veniam, quis nostrud exerci tation
+          ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo
+          consequat. Duis autem vel eum iriure dolor in hendrerit in
+          vulputate velit esse molestie consequat, vel illum dolore eu
+          feugiat nulla facilisis at vero eros et accumsan et iusto odio
+          dignissim qui blandit praesent luptatum zzril delenit augue
+          duis dolore te feugait nulla facilisi.
+        </para>
+      </section>
+      <section xml:id="the-chapter-2_1_3">
+        <title>the chapter 2_1_3</title>
+        <para>
+          Nam liber tempor cum soluta nobis eleifend option congue nihil
+          imperdiet doming id quod mazim placerat facer possim assum.
+          Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
+          diam nonummy nibh euismod tincidunt ut laoreet dolore magna
+          aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
+          nostrud exerci tation ullamcorper suscipit lobortis nisl ut
+          aliquip ex ea commodo consequat.
+        </para>
+      </section>
+    </section>
+    <section xml:id="the-chapter-2_2_0">
+      <title>the chapter 2_2_0</title>
+      <para>
+        Duis autem vel eum iriure dolor in hendrerit in vulputate velit
+        esse molestie consequat, vel illum dolore eu feugiat nulla
+        facilisis.
+      </para>
+      <section xml:id="the-chapter-2_2_1">
+        <title>the chapter 2_2_1</title>
+        <para>
+          At vero eos et accusam et justo duo dolores et ea rebum. Stet
+          clita kasd gubergren, no sea takimata sanctus est Lorem ipsum
+          dolor sit amet. Lorem ipsum dolor sit amet, consetetur
+          sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
+          labore et dolore magna aliquyam erat, sed diam voluptua. At
+          vero eos et accusam et justo duo dolores et ea rebum. Stet
+          clita kasd gubergren, no sea takimata sanctus est Lorem ipsum
+          dolor sit amet. Lorem ipsum dolor sit amet, consetetur
+          sadipscing elitr, At accusam aliquyam diam diam dolore dolores
+          duo eirmod eos erat, et nonumy sed tempor et et invidunt justo
+          labore Stet clita ea et gubergren, kasd magna no rebum.
+          sanctus sea sed takimata ut vero voluptua. est Lorem ipsum
+          dolor sit amet. Lorem ipsum dolor sit amet, consetetur
+          sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
+          labore et dolore magna aliquyam erat.
+        </para>
+      </section>
+      <section xml:id="the-chapter-2_2_2">
+        <title>the chapter 2_2_2</title>
+        <para>
+          Consetetur sadipscing elitr, sed diam nonumy eirmod tempor
+          invidunt ut labore et dolore magna aliquyam erat, sed diam
+          voluptua. At vero eos et accusam et justo duo dolores et ea
+          rebum. Stet clita kasd gubergren, no sea takimata sanctus est
+          Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
+          consetetur sadipscing elitr, sed diam nonumy eirmod tempor
+          invidunt ut labore et dolore magna aliquyam erat, sed diam
+          voluptua. At vero eos et accusam et justo duo dolores et ea
+          rebum. Stet clita kasd gubergren, no sea takimata sanctus est
+          Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
+          consetetur sadipscing elitr, sed diam nonumy eirmod tempor
+          invidunt ut labore et dolore magna aliquyam erat, sed diam
+          voluptua. At vero eos et accusam et justo duo dolores et ea
+          rebum. Stet clita kasd gubergren, no sea takimata sanctus est
+          Lorem ipsum dolor sit amet.
+        </para>
+      </section>
+      <section xml:id="the-chapter-2_2_3">
+        <title>the chapter 2_2_3</title>
+        <para>
+          Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
+          diam nonumy eirmod tempor invidunt ut labore et dolore magna
+          aliquyam erat, sed diam voluptua. At vero eos et accusam et
+          justo duo dolores et ea rebum. Stet clita kasd gubergren, no
+          sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem
+          ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+          nonumy eirmod tempor invidunt ut labore et dolore magna
+          aliquyam erat, sed diam voluptua. At vero eos et accusam et
+          justo duo dolores et ea rebum. Stet clita kasd gubergren, no
+          sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem
+          ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+          nonumy eirmod tempor invidunt ut labore et dolore magna
+          aliquyam erat, sed diam voluptua. At vero eos et accusam et
+          justo duo dolores et ea rebum. Stet clita kasd gubergren, no
+          sea takimata sanctus est Lorem ipsum dolor sit amet.
+        </para>
+      </section>
+    </section>
+    <section xml:id="the-chapter-2_3_0">
+      <title>the chapter 2_3_0</title>
+      <para>
+        Duis autem vel eum iriure dolor in hendrerit in vulputate velit
+        esse molestie consequat, vel illum dolore eu feugiat nulla
+        facilisis at vero eros et accumsan et iusto odio dignissim qui
+        blandit praesent luptatum zzril delenit augue duis dolore te
+        feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
+        laoreet dolore magna aliquam erat volutpat.
+      </para>
+      <section xml:id="the-chapter-2_3_1">
+        <title>the chapter 2_3_1</title>
+        <para>
+          Ut wisi enim ad minim veniam, quis nostrud exerci tation
+          ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo
+          consequat. Duis autem vel eum iriure dolor in hendrerit in
+          vulputate velit esse molestie consequat, vel illum dolore eu
+          feugiat nulla facilisis at vero eros et accumsan et iusto odio
+          dignissim qui blandit praesent luptatum zzril delenit augue
+          duis dolore te feugait nulla facilisi.
+        </para>
+      </section>
+      <section xml:id="the-chapter-2_3_2">
+        <title>the chapter 2_3_2</title>
+        <para>
+          Nam liber tempor cum soluta nobis eleifend option congue nihil
+          imperdiet doming id quod mazim placerat facer possim assum.
+          Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
+          diam nonummy nibh euismod tincidunt ut laoreet dolore magna
+          aliquam erat volutpat. Ut wisi enim ad minim veniam, quis
+          nostrud exerci tation ullamcorper suscipit lobortis nisl ut
+          aliquip ex ea commodo consequat.
+        </para>
+      </section>
+      <section xml:id="the-chapter-2_3_3">
+        <title>the chapter 2_3_3</title>
+        <para>
+          Duis autem vel eum iriure dolor in hendrerit in vulputate
+          velit esse molestie consequat, vel illum dolore eu feugiat
+          nulla facilisis.
+        </para>
+      </section>
+    </section>
+  </section>
+  <section xml:id="test-references">
+    <title>Test References</title>
+    <para>
+      A great source of information are the article [@cite_1] and the
+      book [@cite_2] on the webiste [@cite_3].
+    </para>
+  </section>
+  <section xml:id="references">
+    <title>References</title>
+    <anchor xml:id="refs" />
+  </section>
+  %___The_Include_after_1___&lt;br&gt;
+  %___The_Include_after_2___&lt;br&gt;
+  %___The_Include_after_3___&lt;br&gt;
+</article>

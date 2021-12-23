@@ -1,0 +1,168 @@
+@comment{
+Copyright (C) 2021 Ralf Stephan (RaSt) <me@ralf-stephan.name>
+
+Copying  and  distribution of  this  file,  with  or without  modification,  are
+permitted in any  medium without royalty provided the copyright  notice and this
+notice are preserved.  This file is offered as-is, without any warranty.
+
+
+
+# date and time using UTC
+bash> date --utc "+%Y-%m-%d %H:%M:%S.%N %::z"
+
+# unix timestamp
+bash> date +%s
+
+
+
+BibTEX Tips and FAQ
+https://www.ctan.net/biblio/bibtex/contrib/doc/btxFAQ.pdf
+BIBTEXing
+https://www.ctan.net/biblio/bibtex/contrib/doc/btxdoc.pdf
+Designing BIBTEX Styles
+https://www.ctan.net/biblio/bibtex/contrib/doc/btxhak.pdf
+
+Entry Types:
+
+* article
+* book
+* booklet
+* conference
+* inbook
+* incollection
+* inproceedings
+* manual
+* mastersthesis
+* misc
+* phdthesis
+* proceedings
+* techreport
+* unpublished
+
+
+
+The biblatex Package - Programmable Bibliographies and Citations
+https://www.ctan.org/texarchive/macros/latex/contrib/biblatex/doc/biblatex.pdf
+
+Regular Types:
+
+* article
+* book
+* mvbook
+* inbook
+* bookinbook
+* suppbook
+* booklet
+* collection
+* mvcollection
+* incollection
+* suppcollection
+* dataset
+* manual
+* misc
+* online (alias: electronic, www)
+* patent
+* periodical
+* suppperiodical
+* proceedings
+* mvproceedings
+* inproceedings (alias: conference)
+* reference
+* mvreference
+* inreference
+* report (alias: techreport)
+* set
+* software
+* thesis (alias: mastersthesis, phdthesis)
+* unpublished
+* xdata
+* custom[a–f]
+
+Non-standard Types:
+
+* artwork
+* audio
+* bibnote
+* commentary
+* image
+* jurisdiction
+* legislation
+* legal
+* letter
+* movie
+* music
+* performance
+* review
+* standard
+* video
+
+
+
+urlbst -- add (at)webpage entry and url/doi/eprint/pubmed fields to BibTeX
+https://www.ctan.org/texarchive/biblio/bibtex/contrib/urlbst/urlbst.pdf
+
+Entry Types:
+
+* webpage
+
+
+
+(at)webpage{
+  label,
+
+  title        = {}, "The title of the resource"
+  url          = {}, "The URL of the page"
+
+  author       = {}, "The author of the webpage"
+  editor       = {}, "The editor/maintainer of the webpage"
+  year         = {}, "Year of publication of the page"
+  month        = {}, "Month of publication of the page"
+  day          = {}, "Day of publication of the page"
+  lastchecked  = {}, "Date when you last verified the page was there"
+  dateadded    = {}, "The date when the  {}entry where addad"
+  datemodified = {}, "The date when the entry where modified"
+  note         = {}, "Remarks to be put at the end of the entry"
+
+  doi          = {}, "For a reference’s DOI (see https://doi.org)"
+  eprint       = {}, "For an arXiv eprint reference (see http://arxiv.org)"
+  pubmed       = {}, "For a reference’s PubMed identifier (PMID, see http://pubmed.gov)"
+}
+
+--------------------------------------------------------------------------------
+}
+
+@article{cite_1,
+  journaltitle = {The Journaltitle Title},
+  author = {John Dow},
+  title = {The Article Title},
+  year = {1234},
+  month = {12},
+  day = {06},
+  issn = {1234-567X},
+  url = {https://www.example.com/the_article.pdf},
+  note = {online: 1234-12-06 11:22:33 +12:34},
+}
+
+@book{cite_2,
+  series = {The Series Title},
+  author = {Jane Dow},
+  title = {The Book Title},
+  year = {1234},
+  month = {12},
+  day = {06},
+  isbn = {123-4-5678-0123-X},
+  url = {https://www.example.com/the_articlebook.pdf},
+  note = {online: 1234-12-06 11:22:33 +12:34},
+}
+
+@website{cite_3,
+  title = {The Website Title},
+  url = {https://www.example.com/index.php},
+  urldate = {1234-12-06},
+  author       = {Jane Dow, John Dow},
+  editor       = {The Example Website Editor Team},
+  year = {1234},
+  month = {12},
+  day = {06},
+  note = {online: 1234-12-06 11:22:33 +12:34},
+}
